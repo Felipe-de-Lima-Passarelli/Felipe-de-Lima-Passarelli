@@ -43,9 +43,3 @@ Atualmente, estou aprimorando meus conhecimentos em Python, com foco em automaç
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Felipe-de-Lima-Passarelli/Felipe-de-Lima-Passarelli/output/snake.svg" alt="Snake animation" />
-
-###
