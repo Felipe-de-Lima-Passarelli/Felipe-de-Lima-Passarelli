@@ -1,5 +1,5 @@
 <h2 align="left">Olá 👋! Meu nome é Felipe de Lima Passarelli ... no momento meus estudos estão com foco em Desenvolvedor Python back-end | Foco em Desenvolvimento de Software | Automação, Análise de Dados e IA | Front-end + Flet | Estudante de Análise e Desenvolvimento de Sistemas | À Procura de Oportunidades de Estágio .... Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End/Back-End com foco em HTML, CSS, JavaScript, Bootstrap, Python e MySQL. Formado em Engenharia Civil, com duas pós-graduações na área, estou em transição para o setor de tecnologia, aplicando habilidades adquiridas em minha trajetória profissional.
-Atualmente, estou aprimorando meus conhecimentos em Python, com foco em automação, análise de dados e inteligência artificial. Ao longo dos meus estudos, desenvolvi diversos projetos pessoais, como websites responsivos e automações de processos, sempre com objetivo de resolver problemas reais de forma eficiente.</h2><br>
+Atualmente, estou aprimorando meus conhecimentos em Python, com foco em automação, análise de dados e inteligência artificial e também em ReactJS. Ao longo dos meus estudos, desenvolvi diversos projetos pessoais, como websites responsivos e automações de processos, sempre com objetivo de resolver problemas reais de forma eficiente.</h2><br>
 
 ###
 
