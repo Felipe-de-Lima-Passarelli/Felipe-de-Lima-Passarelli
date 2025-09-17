@@ -12,11 +12,31 @@ Durante meus estudos, venho construindo projetos em **ReactJS, TypeScript, JavaS
 
 ## 📌 Minha Jornada
 
-- ✅ HTML, CSS e Bootstrap  
-- ✅ JavaScript (ES6+)  
-- ✅ ReactJS (componentes, props, estado)  
-- 🔄 Estudando agora: **TypeScript e boas práticas em React**  
-- 🎯 Próximos passos: **Next.js e testes automatizados**  
+### ✅ O que já domino / concluiu
+- **Front-End:** HTML5, CSS, Bootstrap, JavaScript, React Hooks, Desenvolvimento Front-End  
+- **Python:** Programação, Web Scraping, Scrapy  
+- **APIs:** Consumo e integração  
+- **Fundamentos de Computação e Programação**  
+
+---
+
+### 🔄 O que estou estudando agora
+- **ReactJS** (componentização, props, estado, ciclo de vida)  
+- **TypeScript** aplicado ao Front-End  
+
+---
+
+### 📚 Conhecimentos básicos
+- **Ferramentas de dados e IA:** Power BI, Pandas, NumPy, Scikit-Learn  
+- **Inteligência Artificial:** Redes neurais artificiais, Sistemas de IA, Ferramentas de IA Generativa  
+- **Banco de dados:** MySQL  
+- **Frameworks e desenvolvimento:** Flet (Python), Desenvolvimento Full Stack, Desenvolvimento Back-End  
+- **Metodologias ágeis:** Scrum  
+
+---
+
+### 🎯 Próximos passos
+- **Next.js** para aplicações escaláveis em React
 
 ---
 
