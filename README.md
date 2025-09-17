@@ -70,12 +70,11 @@ Durante meus estudos, venho construindo projetos em **ReactJS, TypeScript, JavaS
   <img width="12" />
 
   <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg" height="40" alt="scrapy logo" />
+  <img src="https://img.icons8.com/color/48/000000/scrapy.png" height="40" alt="scrapy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flet/flet-original.svg" height="40" alt="flet logo" />
-  <img width="12" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/flet.png" height="40" alt="flet logo" />
 </div>
 
 ---
