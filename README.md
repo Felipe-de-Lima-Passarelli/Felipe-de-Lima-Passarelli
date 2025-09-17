@@ -13,9 +13,18 @@ Durante meus estudos, venho construindo projetos em **ReactJS, TypeScript, JavaS
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-de-Lima-Passarelli&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipe-de-Lima-Passarelli&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Felipe-de-Lima-Passarelli&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" 
+    height="150" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-de-Lima-Passarelli&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
+    height="150" 
+    alt="Top Languages" 
+  />
 </div>
+
 
 ---
 
