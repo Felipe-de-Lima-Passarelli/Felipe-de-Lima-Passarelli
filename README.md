@@ -13,6 +13,28 @@ Desenvolvo projetos utilizando **HTML, CSS, JavaScript, TypeScript, ReactJS e Ne
 
 ## 📌 Minha Jornada
 
+### 🎓 Certificações e Cursos Concluídos
+
+- **Desenvolvimento Web Completo** – Udemy  
+- **Domine Front-End: 10 Projetos** (HTML, CSS, JavaScript, TypeScript, React, Tailwind e Next.js) – Udemy  
+- **React do Zero à Maestria** (Hooks, Router, APIs e Projetos) – Udemy  
+- **Fundamentos de React** – LinkedIn Learning  
+- **Jornada Full Stack**  
+
+- **Python** – Santander Open Academy  
+- **Santander 2025 – Ciência de Dados com Python**  
+- **Desenvolvimento Flet** – Udemy (Dalton Peixoto)  
+
+- **Power BI**  
+- **Intensivão de Power BI**  
+
+- **Formação Completa em Inteligência Artificial e Machine Learning** – Udemy  
+- **Universia – Fundamentos de IA Generativa**  
+- **Google – Inteligência Artificial e Produtividade**  
+- **Prompting Responsável: Maximizar a IA no seu Negócio**
+
+---
+
 ### ✅ Habilidades consolidadas
 - **Front-End:** HTML5, CSS3, JavaScript (ES6+), ReactJS (Hooks, Componentização, Props, Estado), Tailwind CSS, Next.js
 - **TypeScript:** Tipagem estática aplicada ao Front-End
