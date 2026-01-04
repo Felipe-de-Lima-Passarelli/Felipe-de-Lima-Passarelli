@@ -18,8 +18,8 @@ Desenvolvo projetos utilizando **HTML, CSS, JavaScript, TypeScript, ReactJS e Ne
 - **Desenvolvimento Web Completo** – Udemy  
 - **Domine Front-End: 10 Projetos** (HTML, CSS, JavaScript, TypeScript, React, Tailwind e Next.js) – Udemy  
 - **React do Zero à Maestria** (Hooks, Router, APIs e Projetos) – Udemy
-- **Domine o Next.js, do básico ao avançado, com um curso prático que foca em projetos reais c/ Prisma, Tailwind e Next Auth – Udemy  
-- **NextJS do zero ao avançado na prática 2025 – Udemy
+- **Domine o Next.js, do básico ao avançado, com um curso prático que foca em projetos reais c/ Prisma, Tailwind e Next Auth** – Udemy  
+- **NextJS do zero ao avançado na prática 2025** – Udemy
 - **Fundamentos de React** – LinkedIn Learning  
 - **Jornada Full Stack**  
 
