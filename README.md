@@ -1,13 +1,13 @@
 <h2 align="left">Olá 👋! Meu nome é Felipe de Lima Passarelli</h2>
 
-🎯 **Desenvolvedor Front-End em formação** | Foco em **ReactJS, TypeScript e Next.js**  
+🎯 **Desenvolvedor Front-End em formação** | Foco em **ReactJS, Next.js, TypeScript e Tailwind CSS**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas (UNIFRAN)**  
 💡 Em transição da **Engenharia Civil** para a área de **Tecnologia**  
 🚀 Em busca da **primeira oportunidade de estágio** em Desenvolvimento Front-End  
 
 Sou formado em **Engenharia Civil**, com duas pós-graduações, e atualmente direciono minha carreira para o **Desenvolvimento Front-End**, com foco na criação de interfaces modernas, acessíveis, responsivas e performáticas.
 
-Desenvolvo projetos utilizando **HTML, CSS, JavaScript, TypeScript, ReactJS e Next.js**, aplicando boas práticas de código, organização de projetos e princípios de UX/UI. Também utilizo **Python** para automação e análise de dados, ampliando minha visão técnica.
+Desenvolvo projetos utilizando **HTML, CSS, JavaScript, TypeScript, ReactJS, Next.js e Tailwind CSS**, aplicando boas práticas de código, organização de projetos e princípios de UX/UI. Também utilizo **Python** para automação e análise de dados, ampliando minha visão técnica.
 
 ---
 
@@ -15,30 +15,32 @@ Desenvolvo projetos utilizando **HTML, CSS, JavaScript, TypeScript, ReactJS e Ne
 
 ### 🎓 Certificações e Cursos Concluídos
 
-- **Desenvolvimento Web Completo** – Udemy  
-- **Domine Front-End: 10 Projetos** (HTML, CSS, JavaScript, TypeScript, React, Tailwind e Next.js) – Udemy  
+- **Desenvolvimento Web Completo** – Udemy
+- **Domine Front-End: 10 Projetos** (HTML, CSS, JavaScript, TypeScript, React, Tailwind e Next.js) – Udemy
 - **React do Zero à Maestria** (Hooks, Router, APIs e Projetos) – Udemy
-- **Domine o Next.js, do básico ao avançado, com um curso prático que foca em projetos reais c/ Prisma, Tailwind e Next Auth** – Udemy  
+- **Domine o Next.js, do básico ao avançado, com um curso prático que foca em projetos reais c/ Prisma, Tailwind e Next Auth** – Udemy
 - **NextJS do zero ao avançado na prática 2025** – Udemy
-- **Fundamentos de React** – LinkedIn Learning  
-- **Jornada Full Stack**  
+- Curso de React JS 19 e Next.js 15 (atualizado para 2025) - Udemy
+- Criando APIs modernas com NestJS, Prisma ORM e PostgreSQL - Udemy
+- **Fundamentos de React** – LinkedIn Learning
+- **Jornada Full Stack**
 
-- **Python** – Santander Open Academy  
-- **Santander 2025 – Ciência de Dados com Python**  
-- **Desenvolvimento Flet** – Udemy (Dalton Peixoto)  
+- **Python** – Santander Open Academy
+- **Santander 2025 – Ciência de Dados com Python**
+- **Desenvolvimento Flet** – Udemy (Dalton Peixoto)
 
-- **Power BI**  
-- **Intensivão de Power BI**  
+- **Power BI**
+- **Intensivão de Power BI**
 
-- **Formação Completa em Inteligência Artificial e Machine Learning** – Udemy  
-- **Universia – Fundamentos de IA Generativa**  
-- **Google – Inteligência Artificial e Produtividade**  
+- **Formação Completa em Inteligência Artificial e Machine Learning** – Udemy
+- **Universia – Fundamentos de IA Generativa**
+- **Google – Inteligência Artificial e Produtividade**
 - **Prompting Responsável: Maximizar a IA no seu Negócio**
 
 ---
 
 ### ✅ Habilidades consolidadas
-- **Front-End:** HTML5, CSS3, JavaScript (ES6+), ReactJS (Hooks, Componentização, Props, Estado), Tailwind CSS, Next.js
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), ReactJS/NextJS (Hooks, Componentização, Props, Estado) e Tailwind CSS
 - **TypeScript:** Tipagem estática aplicada ao Front-End
 - **APIs:** Consumo e integração de APIs REST
 - **Fundamentos sólidos de programação e computação**
